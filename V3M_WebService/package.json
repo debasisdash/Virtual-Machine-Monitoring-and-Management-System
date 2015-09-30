@@ -1,0 +1,15 @@
+{
+  "name": "CMPE283_V3M",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "async":"0.1.x",
+    "mongodb":"1.2.x",
+    "ejs": "*",
+    "node-rest-client": "^1.4.1"
+  }
+}
