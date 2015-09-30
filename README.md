@@ -1,0 +1,2 @@
+# Virtual-Machine-Monitoring-and-Management-System
+Virtualization can simplify IT operations and help organizations respond to changing business needs faster. The monitoring and management of such a virtualized environment is the need of the hour. Automation of these tasks is important to maintain the efficiency and performance of the system. It helps us to create an application using VMWare ESXi features and also to manage the VM instances. Automation of management and monitoring of VM instances in a large pool of resources is the focal point of our project.
